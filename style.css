@@ -1,0 +1,33 @@
+body{
+    font-family: "Geist Mono", monospace;
+
+}
+.chamada{
+    background: purple;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+
+}
+body{
+    background: black;
+    margin: 0px;
+    font-family: "Playfair Display", serif;
+    color: white;
+    margin-bottom: 100px;
+}
+
+header{
+font-size: 35px;
+color: blue;
+border-bottom: 3px solid blue;
+padding: 20px;
+
+}
+h1{
+    font-size: 40px;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
